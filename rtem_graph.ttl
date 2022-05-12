@@ -1,0 +1,1846 @@
+@prefix brick: <https://brickschema.org/schema/Brick#> .
+@prefix om: <http://openmetrics.eu/openmetrics#> .
+@prefix unit: <http://qudt.org/vocab/unit#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+om:Boiler_17331 a brick:Boiler ;
+    brick:hasLocation om:Building_109 .
+
+om:Boiler_17367 a brick:Boiler ;
+    brick:hasLocation om:Building_111 .
+
+om:Boiler_17374 a brick:Boiler ;
+    brick:hasLocation om:Building_113 .
+
+om:Boiler_17376 a brick:Boiler ;
+    brick:hasLocation om:Building_113 .
+
+om:Boiler_17377 a brick:Boiler ;
+    brick:hasLocation om:Building_113,
+        om:Building_119 .
+
+om:Boiler_17455 a brick:Boiler ;
+    brick:hasLocation om:Building_118 .
+
+om:Boiler_17456 a brick:Boiler ;
+    brick:hasLocation om:Building_118 .
+
+om:Boiler_17457 a brick:Boiler ;
+    brick:hasLocation om:Building_118 .
+
+om:Boiler_17458 a brick:Boiler ;
+    brick:hasLocation om:Building_118 .
+
+om:Boiler_17459 a brick:Boiler ;
+    brick:hasLocation om:Building_118,
+        om:Building_477 .
+
+om:Boiler_17857 a brick:Boiler ;
+    brick:hasLocation om:Building_126 .
+
+om:Boiler_17859 a brick:Boiler ;
+    brick:hasLocation om:Building_126,
+        om:Building_486 .
+
+om:Boiler_17864 a brick:Boiler ;
+    brick:hasLocation om:Building_127 .
+
+om:Boiler_17866 a brick:Boiler ;
+    brick:hasLocation om:Building_127 .
+
+om:Boiler_17873 a brick:Boiler ;
+    brick:hasLocation om:Building_128 .
+
+om:Boiler_17875 a brick:Boiler ;
+    brick:hasLocation om:Building_128,
+        om:Building_141 .
+
+om:Boiler_18061 a brick:Boiler ;
+    brick:hasLocation om:Building_103,
+        om:Building_136 .
+
+om:Boiler_18067 a brick:Boiler ;
+    brick:hasLocation om:Building_137 .
+
+om:Boiler_18069 a brick:Boiler ;
+    brick:hasLocation om:Building_137 .
+
+om:Boiler_18070 a brick:Boiler ;
+    brick:hasLocation om:Building_137 .
+
+om:Boiler_18071 a brick:Boiler ;
+    brick:hasLocation om:Building_137 .
+
+om:Boiler_18086 a brick:Boiler ;
+    brick:hasLocation om:Building_138 .
+
+om:Boiler_18165 a brick:Boiler ;
+    brick:hasLocation om:Building_145 .
+
+om:Boiler_18221 a brick:Boiler ;
+    brick:hasLocation om:Building_149 .
+
+om:Boiler_18243 a brick:Boiler ;
+    brick:hasLocation om:Building_153 .
+
+om:Boiler_18315 a brick:Boiler ;
+    brick:hasLocation om:Building_162 .
+
+om:Boiler_18317 a brick:Boiler ;
+    brick:hasLocation om:Building_162 .
+
+om:Boiler_18320 a brick:Boiler ;
+    brick:hasLocation om:Building_162 .
+
+om:Boiler_18323 a brick:Boiler ;
+    brick:hasLocation om:Building_162 .
+
+om:Boiler_18488 a brick:Boiler ;
+    brick:hasLocation om:Building_163,
+        om:Building_168 .
+
+om:Boiler_18541 a brick:Boiler ;
+    brick:hasLocation om:Building_169 .
+
+om:Boiler_18543 a brick:Boiler ;
+    brick:hasLocation om:Building_169 .
+
+om:Boiler_18544 a brick:Boiler ;
+    brick:hasLocation om:Building_169 .
+
+om:Boiler_18555 a brick:Boiler ;
+    brick:hasLocation om:Building_146,
+        om:Building_171 .
+
+om:Boiler_18674 a brick:Boiler ;
+    brick:hasLocation om:Building_181 .
+
+om:Boiler_18677 a brick:Boiler ;
+    brick:hasLocation om:Building_180,
+        om:Building_183,
+        om:Building_185 .
+
+om:Boiler_18680 a brick:Boiler ;
+    brick:hasLocation om:Building_184 .
+
+om:Boiler_18925 a brick:Boiler ;
+    brick:hasLocation om:Building_192 .
+
+om:Boiler_19057 a brick:Boiler ;
+    brick:hasLocation om:Building_206 .
+
+om:Boiler_19059 a brick:Boiler ;
+    brick:hasLocation om:Building_206,
+        om:Building_207 .
+
+om:Boiler_19284 a brick:Boiler ;
+    brick:hasLocation om:Building_224 .
+
+om:Boiler_19448 a brick:Boiler ;
+    brick:hasLocation om:Building_231,
+        om:Building_248 .
+
+om:Boiler_19775 a brick:Boiler ;
+    brick:hasLocation om:Building_258 .
+
+om:Boiler_19776 a brick:Boiler ;
+    brick:hasLocation om:Building_258 .
+
+om:Boiler_19777 a brick:Boiler ;
+    brick:hasLocation om:Building_258 .
+
+om:Boiler_19778 a brick:Boiler ;
+    brick:hasLocation om:Building_258 .
+
+om:Boiler_19849 a brick:Boiler ;
+    brick:hasLocation om:Building_259 .
+
+om:Boiler_19850 a brick:Boiler ;
+    brick:hasLocation om:Building_259 .
+
+om:Boiler_19851 a brick:Boiler ;
+    brick:hasLocation om:Building_259 .
+
+om:Boiler_19852 a brick:Boiler ;
+    brick:hasLocation om:Building_259 .
+
+om:Boiler_19853 a brick:Boiler ;
+    brick:hasLocation om:Building_259 .
+
+om:Boiler_20245 a brick:Boiler ;
+    brick:hasLocation om:Building_278,
+        om:Building_296 .
+
+om:Boiler_20519 a brick:Boiler ;
+    brick:hasLocation om:Building_298 .
+
+om:Boiler_20686 a brick:Boiler ;
+    brick:hasLocation om:Building_301 .
+
+om:Boiler_20687 a brick:Boiler ;
+    brick:hasLocation om:Building_301 .
+
+om:Boiler_20688 a brick:Boiler ;
+    brick:hasLocation om:Building_301,
+        om:Building_302 .
+
+om:Boiler_20897 a brick:Boiler ;
+    brick:hasLocation om:Building_313 .
+
+om:Boiler_20946 a brick:Boiler ;
+    brick:hasLocation om:Building_317,
+        om:Building_419 .
+
+om:Boiler_21167 a brick:Boiler ;
+    brick:hasLocation om:Building_326,
+        om:Building_330 .
+
+om:Boiler_21499 a brick:Boiler ;
+    brick:hasLocation om:Building_341 .
+
+om:Boiler_21578 a brick:Boiler ;
+    brick:hasLocation om:Building_349 .
+
+om:Boiler_21630 a brick:Boiler ;
+    brick:hasLocation om:Building_354 .
+
+om:Boiler_21631 a brick:Boiler ;
+    brick:hasLocation om:Building_354 .
+
+om:Boiler_21633 a brick:Boiler ;
+    brick:hasLocation om:Building_354 .
+
+om:Boiler_21635 a brick:Boiler ;
+    brick:hasLocation om:Building_354 .
+
+om:Boiler_21813 a brick:Boiler ;
+    brick:hasLocation om:Building_357 .
+
+om:Boiler_22263 a brick:Boiler ;
+    brick:hasLocation om:Building_371 .
+
+om:Boiler_22265 a brick:Boiler ;
+    brick:hasLocation om:Building_371,
+        om:Building_396 .
+
+om:Boiler_22333 a brick:Boiler ;
+    brick:hasLocation om:Building_375 .
+
+om:Boiler_22334 a brick:Boiler ;
+    brick:hasLocation om:Building_375,
+        om:Building_423,
+        om:Building_426,
+        om:Building_470 .
+
+om:Boiler_22511 a brick:Boiler ;
+    brick:hasLocation om:Building_387 .
+
+om:Boiler_22513 a brick:Boiler ;
+    brick:hasLocation om:Building_387 .
+
+om:Boiler_22514 a brick:Boiler ;
+    brick:hasLocation om:Building_387,
+        om:Building_389,
+        om:Building_391,
+        om:Building_394 .
+
+om:Boiler_26336 a brick:Boiler ;
+    brick:hasLocation om:Building_142,
+        om:Building_421 .
+
+om:Boiler_26337 a brick:Boiler ;
+    brick:hasLocation om:Building_422 .
+
+om:Boiler_26338 a brick:Boiler ;
+    brick:hasLocation om:Building_422,
+        om:Building_503 .
+
+om:Boiler_27029 a brick:Boiler ;
+    brick:hasLocation om:Building_110 .
+
+om:Boiler_27030 a brick:Boiler ;
+    brick:hasLocation om:Building_110 .
+
+om:Boiler_28499 a brick:Boiler ;
+    brick:hasLocation om:Building_434 .
+
+om:Boiler_28500 a brick:Boiler ;
+    brick:hasLocation om:Building_271,
+        om:Building_434 .
+
+om:Boiler_28797 a brick:Boiler ;
+    brick:hasLocation om:Building_441 .
+
+om:Boiler_28798 a brick:Boiler ;
+    brick:hasLocation om:Building_441 .
+
+om:Boiler_28799 a brick:Boiler ;
+    brick:hasLocation om:Building_441 .
+
+om:Boiler_28800 a brick:Boiler ;
+    brick:hasLocation om:Building_441 .
+
+om:Boiler_28801 a brick:Boiler ;
+    brick:hasLocation om:Building_140,
+        om:Building_441 .
+
+om:Boiler_29547 a brick:Boiler ;
+    brick:hasLocation om:Building_442 .
+
+om:Boiler_29548 a brick:Boiler ;
+    brick:hasLocation om:Building_442 .
+
+om:Boiler_29549 a brick:Boiler ;
+    brick:hasLocation om:Building_442 .
+
+om:Boiler_29550 a brick:Boiler ;
+    brick:hasLocation om:Building_442 .
+
+om:Boiler_29551 a brick:Boiler ;
+    brick:hasLocation om:Building_442 .
+
+om:Boiler_29552 a brick:Boiler ;
+    brick:hasLocation om:Building_442 .
+
+om:Boiler_29834 a brick:Boiler ;
+    brick:hasLocation om:Building_445 .
+
+om:Boiler_30303 a brick:Boiler ;
+    brick:hasLocation om:Building_451 .
+
+om:Boiler_30382 a brick:Boiler ;
+    brick:hasLocation om:Building_454 .
+
+om:Boiler_30383 a brick:Boiler ;
+    brick:hasLocation om:Building_454 .
+
+om:Boiler_30384 a brick:Boiler ;
+    brick:hasLocation om:Building_279,
+        om:Building_454,
+        om:Building_481,
+        om:Building_491,
+        om:Building_492 .
+
+om:Boiler_30465 a brick:Boiler ;
+    brick:hasLocation om:Building_461,
+        om:Building_99 .
+
+om:Boiler_30467 a brick:Boiler ;
+    brick:hasLocation om:Building_462 .
+
+om:Boiler_30500 a brick:Boiler ;
+    brick:hasLocation om:Building_465 .
+
+om:Boiler_30501 a brick:Boiler ;
+    brick:hasLocation om:Building_465 .
+
+om:Boiler_30502 a brick:Boiler ;
+    brick:hasLocation om:Building_465 .
+
+om:Boiler_30503 a brick:Boiler ;
+    brick:hasLocation om:Building_465 .
+
+om:Boiler_30504 a brick:Boiler ;
+    brick:hasLocation om:Building_465 .
+
+om:Boiler_30505 a brick:Boiler ;
+    brick:hasLocation om:Building_465 .
+
+om:Boiler_30506 a brick:Boiler ;
+    brick:hasLocation om:Building_465 .
+
+om:Boiler_31241 a brick:Boiler ;
+    brick:hasLocation om:Building_130,
+        om:Building_466 .
+
+om:Boiler_31243 a brick:Boiler ;
+    brick:hasLocation om:Building_455,
+        om:Building_467,
+        om:Building_488 .
+
+om:Boiler_31245 a brick:Boiler ;
+    brick:hasLocation om:Building_438,
+        om:Building_468,
+        om:Building_478 .
+
+om:Boiler_31246 a brick:Boiler ;
+    brick:hasLocation om:Building_469 .
+
+om:Boiler_31466 a brick:Boiler ;
+    brick:hasLocation om:Building_471 .
+
+om:Boiler_31711 a brick:Boiler ;
+    brick:hasLocation om:Building_99 .
+
+om:Boiler_31712 a brick:Boiler ;
+    brick:hasLocation om:Building_99 .
+
+om:Boiler_31713 a brick:Boiler ;
+    brick:hasLocation om:Building_99 .
+
+om:Boiler_31714 a brick:Boiler ;
+    brick:hasLocation om:Building_99 .
+
+om:Boiler_31715 a brick:Boiler ;
+    brick:hasLocation om:Building_98,
+        om:Building_99 .
+
+om:Boiler_31811 a brick:Boiler ;
+    brick:hasLocation om:Building_478 .
+
+om:Boiler_31813 a brick:Boiler ;
+    brick:hasLocation om:Building_478 .
+
+om:Boiler_31815 a brick:Boiler ;
+    brick:hasLocation om:Building_395,
+        om:Building_418,
+        om:Building_478,
+        om:Building_485 .
+
+om:Boiler_31871 a brick:Boiler ;
+    brick:hasLocation om:Building_479 .
+
+om:Boiler_31872 a brick:Boiler ;
+    brick:hasLocation om:Building_479 .
+
+om:Boiler_31873 a brick:Boiler ;
+    brick:hasLocation om:Building_474,
+        om:Building_479 .
+
+om:Boiler_31942 a brick:Boiler ;
+    brick:hasLocation om:Building_483 .
+
+om:Boiler_31943 a brick:Boiler ;
+    brick:hasLocation om:Building_483 .
+
+om:Boiler_31944 a brick:Boiler ;
+    brick:hasLocation om:Building_483 .
+
+om:Boiler_31945 a brick:Boiler ;
+    brick:hasLocation om:Building_483 .
+
+om:Boiler_32359 a brick:Boiler ;
+    brick:hasLocation om:Building_117 .
+
+om:Boiler_32360 a brick:Boiler ;
+    brick:hasLocation om:Building_117 .
+
+om:Boiler_32362 a brick:Boiler ;
+    brick:hasLocation om:Building_117,
+        om:Building_120,
+        om:Building_121 .
+
+om:Boiler_33090 a brick:Boiler ;
+    brick:hasLocation om:Building_452 .
+
+om:Boiler_33091 a brick:Boiler ;
+    brick:hasLocation om:Building_452 .
+
+om:Boiler_33092 a brick:Boiler ;
+    brick:hasLocation om:Building_452 .
+
+om:Boiler_33923 a brick:Boiler ;
+    brick:hasLocation om:Building_232,
+        om:Building_247 .
+
+om:Boiler_33977 a brick:Boiler ;
+    brick:hasLocation om:Building_197 .
+
+om:Boiler_34987 a brick:Boiler ;
+    brick:hasLocation om:Building_180 .
+
+om:Boiler_34988 a brick:Boiler ;
+    brick:hasLocation om:Building_143 .
+
+om:Boiler_34989 a brick:Boiler ;
+    brick:hasLocation om:Building_216 .
+
+om:Boiler_36555 a brick:Boiler ;
+    brick:hasLocation om:Building_214 .
+
+om:Boiler_36556 a brick:Boiler ;
+    brick:hasLocation om:Building_214 .
+
+om:Boiler_36557 a brick:Boiler ;
+    brick:hasLocation om:Building_214,
+        om:Building_383,
+        om:Building_398,
+        om:Building_399 .
+
+om:Boiler_36560 a brick:Boiler ;
+    brick:hasLocation om:Building_263 .
+
+om:Building_100 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.5375e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_101 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2e+04 ] ;
+    brick:buildingPrimaryFunction "Hospitality" ;
+    brick:hasLocation "New York" .
+
+om:Building_105 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 5.6e+04 ] ;
+    brick:buildingPrimaryFunction "Food/Beverage" ;
+    brick:hasLocation "Kingston" .
+
+om:Building_107 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 5e+04 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_108 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "NaN"^^xsd:double ;
+    brick:hasLocation "Yonkers" .
+
+om:Building_112 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.1e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_114 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.409e+05 ] ;
+    brick:buildingPrimaryFunction "College/University" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_115 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.073894e+06 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_116 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.05e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Brooklyn" .
+
+om:Building_122 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 5.6e+04 ] ;
+    brick:buildingPrimaryFunction "Food/Beverage" ;
+    brick:hasLocation "Middletown" .
+
+om:Building_123 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.3e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "New York" .
+
+om:Building_124 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 7e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Queens" .
+
+om:Building_125 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 8.5e+03 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Yonkers" .
+
+om:Building_129 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.2e+06 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_131 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.05e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Brooklyn" .
+
+om:Building_132 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Hudson" .
+
+om:Building_134 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.2e+04 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_135 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "New York" .
+
+om:Building_139 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 9e+03 ] ;
+    brick:buildingPrimaryFunction "Food/Beverage" ;
+    brick:hasLocation "Ossining" .
+
+om:Building_147 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Niagara Falls" .
+
+om:Building_148 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 7.89079e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_151 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Nanuet" .
+
+om:Building_154 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.57297e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_155 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.44e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Troy" .
+
+om:Building_157 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 5.6e+04 ] ;
+    brick:buildingPrimaryFunction "Food/Beverage" ;
+    brick:hasLocation "Syracuse" .
+
+om:Building_158 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 9e+03 ] ;
+    brick:buildingPrimaryFunction "Food/Beverage" ;
+    brick:hasLocation "Tarrytown" .
+
+om:Building_160 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.44e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Penfield" .
+
+om:Building_164 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 5.6e+04 ] ;
+    brick:buildingPrimaryFunction "Food/Beverage" ;
+    brick:hasLocation "Watertown" .
+
+om:Building_165 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.44e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Fairport" .
+
+om:Building_166 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Batavia" .
+
+om:Building_167 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.44e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Depew" .
+
+om:Building_170 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 7.89079e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Flushing" .
+
+om:Building_172 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Syracuse" .
+
+om:Building_173 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Staten Island" .
+
+om:Building_174 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.5e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_175 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Rochester" .
+
+om:Building_176 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.5e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "New York" .
+
+om:Building_177 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.44e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Cheektowaga" .
+
+om:Building_179 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 5.6e+04 ] ;
+    brick:buildingPrimaryFunction "Food/Beverage" ;
+    brick:hasLocation "Poughkeepsie" .
+
+om:Building_187 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Vestal" .
+
+om:Building_188 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.44e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Glenville" .
+
+om:Building_190 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.2869e+05 ] ;
+    brick:buildingPrimaryFunction "K-12 School" ;
+    brick:hasLocation "Amsterdam" .
+
+om:Building_191 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Victor" .
+
+om:Building_194 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.7e+06 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_200 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.040873e+06 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_201 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.59e+05 ] ;
+    brick:buildingPrimaryFunction "Not For Profit" ;
+    brick:hasLocation "Guilderland" .
+
+om:Building_202 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.59e+05 ] ;
+    brick:buildingPrimaryFunction "Not For Profit" ;
+    brick:hasLocation "East Greenbush" .
+
+om:Building_205 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 8.5e+03 ] ;
+    brick:buildingPrimaryFunction "Food/Beverage" ;
+    brick:hasLocation "Thornwood" .
+
+om:Building_210 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Saratoga Springs" .
+
+om:Building_215 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 7.89079e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Flushing" .
+
+om:Building_217 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.29154e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_220 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Cicero" .
+
+om:Building_225 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Horseheads" .
+
+om:Building_226 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.44e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "New Hartford" .
+
+om:Building_230 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.040873e+06 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_234 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.21758e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_236 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.44e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Cicero" .
+
+om:Building_239 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 4.5e+05 ] ;
+    brick:buildingPrimaryFunction "K-12 School" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_242 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.64e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_246 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.6e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_249 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.2e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "New York" .
+
+om:Building_250 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.20721e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_252 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Brooklyn" .
+
+om:Building_253 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 7.89079e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Flushing" .
+
+om:Building_256 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.993e+06 ] ;
+    brick:buildingPrimaryFunction "Manufacturing" ;
+    brick:hasLocation "Pearl River" .
+
+om:Building_260 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.44e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Rome" .
+
+om:Building_264 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.44e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Rochester" .
+
+om:Building_265 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "NaN"^^xsd:double ;
+    brick:hasLocation "Saratoga Springs" .
+
+om:Building_272 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 7.89079e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Flushing" .
+
+om:Building_274 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.44e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "West Seneca" .
+
+om:Building_275 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 5.22e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_277 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Latham" .
+
+om:Building_282 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 5.6e+04 ] ;
+    brick:buildingPrimaryFunction "Food/Beverage" ;
+    brick:hasLocation "Ithaca" .
+
+om:Building_285 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "White Plains" .
+
+om:Building_286 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 9e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_288 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Brooklyn" .
+
+om:Building_294 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.44e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Fishkill" .
+
+om:Building_297 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Watertown" .
+
+om:Building_307 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 5.6e+04 ] ;
+    brick:buildingPrimaryFunction "Food/Beverage" ;
+    brick:hasLocation "Rochester" .
+
+om:Building_311 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.9e+05 ] ;
+    brick:buildingPrimaryFunction "Healthcare" ;
+    brick:hasLocation "New York" .
+
+om:Building_314 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_316 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.44e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Blasdell" .
+
+om:Building_322 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "New Hartford" .
+
+om:Building_324 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.45079e+05 ] ;
+    brick:buildingPrimaryFunction "Food/Beverage" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_327 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Mohegan Lake" .
+
+om:Building_332 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.2e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "New York" .
+
+om:Building_350 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Syracuse" .
+
+om:Building_353 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Henrietta" .
+
+om:Building_361 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.44e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Greece" .
+
+om:Building_370 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 4.21316e+05 ] ;
+    brick:buildingPrimaryFunction "Hospitality" ;
+    brick:hasLocation "New York" .
+
+om:Building_372 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Johnson City" .
+
+om:Building_373 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.27577e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_378 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.59e+05 ] ;
+    brick:buildingPrimaryFunction "Not For Profit" ;
+    brick:hasLocation "Clifton Park" .
+
+om:Building_380 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 5.6e+04 ] ;
+    brick:buildingPrimaryFunction "Food/Beverage" ;
+    brick:hasLocation "Horseheads" .
+
+om:Building_381 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.5625e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Brooklyn" .
+
+om:Building_384 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.040873e+06 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_385 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.8e+05 ] ;
+    brick:buildingPrimaryFunction "Healthcare" ;
+    brick:hasLocation "New York" .
+
+om:Building_386 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.98057e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "Kingston" .
+
+om:Building_390 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 8.5e+03 ] ;
+    brick:buildingPrimaryFunction "Food/Beverage" ;
+    brick:hasLocation "Bedford Hills" .
+
+om:Building_392 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.99613e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_393 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.1e+06 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_417 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.898155e+06 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_420 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.36e+05 ] ;
+    brick:buildingPrimaryFunction "Healthcare" ;
+    brick:hasLocation "New York" .
+
+om:Building_439 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3e+06 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "NYC" .
+
+om:Building_440 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.68e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_443 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 6e+05 ] ;
+    brick:buildingPrimaryFunction "College/University" ;
+    brick:hasLocation "New York" .
+
+om:Building_450 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 6.65e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_460 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Healthcare" ;
+    brick:hasLocation "Flushing" .
+
+om:Building_472 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "College/University" ;
+    brick:hasLocation "Corning" .
+
+om:Building_473 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "K-12 School" ;
+    brick:hasLocation "Warsaw" .
+
+om:Building_475 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "College/University" ;
+    brick:hasLocation "Canandaigua" .
+
+om:Building_476 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.1e+05 ] ;
+    brick:buildingPrimaryFunction "Healthcare" ;
+    brick:hasLocation "Woodside" .
+
+om:Building_484 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 6.99e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_487 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 6.67e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_489 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_490 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 7.82298e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Brooklyn" .
+
+om:Building_103 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 5.63391e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_109 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.57001e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_111 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.3512e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_119 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 9.8122e+04 ] ;
+    brick:buildingPrimaryFunction "Not For Profit" ;
+    brick:hasLocation "Brooklyn" .
+
+om:Building_120 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 6e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_121 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.36067e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_130 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.45e+05 ] ;
+    brick:buildingPrimaryFunction "K-12 School" ;
+    brick:hasLocation "New York" .
+
+om:Building_136 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.74096e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_138 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.575e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_140 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.1869e+04 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_141 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.325e+06 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_142 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.4e+06 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_143 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.6903e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Manhattan" .
+
+om:Building_145 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 4.3299e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_146 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.81755e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_149 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.1152e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Manhattan" .
+
+om:Building_153 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.0025e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_163 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Manhattan" .
+
+om:Building_168 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 9e+05 ] ;
+    brick:buildingPrimaryFunction "Healthcare" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_171 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.34e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_181 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.1502e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_183 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.74096e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_184 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 5.2782e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Manhattan" .
+
+om:Building_185 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.486e+06 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_192 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.74096e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_197 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 7.5165e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_207 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 4.4627e+04 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "New York" .
+
+om:Building_216 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.74096e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_224 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.74096e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_231 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "NaN"^^xsd:double ;
+    brick:hasLocation "New York" .
+
+om:Building_232 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 5e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Mamaroneck" .
+
+om:Building_247 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 4.704e+04 ] ;
+    brick:buildingPrimaryFunction "Healthcare" ;
+    brick:hasLocation "New York" .
+
+om:Building_248 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.27e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_263 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 8.88e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Port Chester" .
+
+om:Building_271 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.224e+04 ] ;
+    brick:buildingPrimaryFunction "College/University" ;
+    brick:hasLocation "New York" .
+
+om:Building_278 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.122e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Manhattan" .
+
+om:Building_279 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.5e+04 ] ;
+    brick:buildingPrimaryFunction "NaN"^^xsd:double ;
+    brick:hasLocation "NaN"^^xsd:double .
+
+om:Building_296 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.67995e+05 ] ;
+    brick:buildingPrimaryFunction "Healthcare" ;
+    brick:hasLocation "New York" .
+
+om:Building_298 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 4.2e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_302 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 6.25844e+05 ] ;
+    brick:buildingPrimaryFunction "Hospitality" ;
+    brick:hasLocation "New York" .
+
+om:Building_313 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.1586e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_317 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.5e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_326 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.15e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_330 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2e+05 ] ;
+    brick:buildingPrimaryFunction "College/University" ;
+    brick:hasLocation "Valhalla" .
+
+om:Building_341 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.74096e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_349 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 9e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Mount Vernon" .
+
+om:Building_357 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.5e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Mamaroneck" .
+
+om:Building_383 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 7.5e+04 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "Purchase" .
+
+om:Building_389 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.38424e+05 ] ;
+    brick:buildingPrimaryFunction "Healthcare" ;
+    brick:hasLocation "New York" .
+
+om:Building_391 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.5e+05 ] ;
+    brick:buildingPrimaryFunction "Healthcare" ;
+    brick:hasLocation "New York" .
+
+om:Building_394 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 7.25e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_395 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.71129e+05 ] ;
+    brick:buildingPrimaryFunction "Hospitality" ;
+    brick:hasLocation "New York" .
+
+om:Building_396 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.2747e+04 ] ;
+    brick:buildingPrimaryFunction "Hospitality" ;
+    brick:hasLocation "Brooklyn" .
+
+om:Building_398 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 8.6e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_399 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.404e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_418 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.8e+06 ] ;
+    brick:buildingPrimaryFunction "NaN"^^xsd:double ;
+    brick:hasLocation "NaN"^^xsd:double .
+
+om:Building_419 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.3e+05 ] ;
+    brick:buildingPrimaryFunction "College/University" ;
+    brick:hasLocation "New York" .
+
+om:Building_421 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 7.96e+03 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_423 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.1971e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Queens" .
+
+om:Building_426 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 8e+04 ] ;
+    brick:buildingPrimaryFunction "Hospitality" ;
+    brick:hasLocation "New York" .
+
+om:Building_438 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.5e+06 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_445 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.322e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_451 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 4.9428e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Brooklyn" .
+
+om:Building_455 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Chemicals" ;
+    brick:hasLocation "Brooklyn" .
+
+om:Building_461 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 4.7092e+04 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "New York" .
+
+om:Building_462 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 7.68e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_466 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Long Island City" .
+
+om:Building_467 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Brooklyn" .
+
+om:Building_468 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bronxville" .
+
+om:Building_469 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "White Plains" .
+
+om:Building_470 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_471 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Healthcare" ;
+    brick:hasLocation "Rochester" .
+
+om:Building_474 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Healthcare" ;
+    brick:hasLocation "lewiston" .
+
+om:Building_477 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Healthcare" ;
+    brick:hasLocation "New York" .
+
+om:Building_481 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Healthcare" ;
+    brick:hasLocation "Queens" .
+
+om:Building_485 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_486 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_488 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_491 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_492 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Hospitality" ;
+    brick:hasLocation "New York" .
+
+om:Building_503 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_98 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.338e+06 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_110 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 7.89079e+05 ] ;
+    brick:buildingPrimaryFunction "NaN"^^xsd:double ;
+    brick:hasLocation "NaN"^^xsd:double .
+
+om:Building_126 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 5.2096e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_127 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 7.89079e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Flushing" .
+
+om:Building_128 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.52105e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_180 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.2285e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Brooklyn" .
+
+om:Building_206 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 7.89079e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bayside" .
+
+om:Building_371 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.76584e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_375 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.32808e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "BRONX" .
+
+om:Building_422 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.5236e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_434 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 5.609e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Brooklyn" .
+
+om:Building_113 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 6.355e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_117 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.79e+05 ] ;
+    brick:buildingPrimaryFunction "Healthcare" ;
+    brick:hasLocation "New York" .
+
+om:Building_169 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 5.5286e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Brooklyn" .
+
+om:Building_214 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.2e+04 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_301 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.5e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York" .
+
+om:Building_387 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.59e+05 ] ;
+    brick:buildingPrimaryFunction "Not For Profit" ;
+    brick:hasLocation "Delmar" .
+
+om:Building_452 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.028336e+06 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_454 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
+om:Building_479 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "K-12 School" ;
+    brick:hasLocation "Pittsford" .
+
+om:Building_137 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.21704e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "Brooklyn" .
+
+om:Building_162 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.737e+05 ] ;
+    brick:buildingPrimaryFunction "K-12 School" ;
+    brick:hasLocation "Hudson" .
+
+om:Building_258 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 1.35e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "New York City" .
+
+om:Building_354 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 3.737e+05 ] ;
+    brick:buildingPrimaryFunction "K-12 School" ;
+    brick:hasLocation "Hudson" .
+
+om:Building_478 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "K-12 School" ;
+    brick:hasLocation "Rochester" .
+
+om:Building_483 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value "NaN"^^xsd:double ] ;
+    brick:buildingPrimaryFunction "Healthcare" ;
+    brick:hasLocation "Flushing" .
+
+om:Building_118 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.75e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Retail" ;
+    brick:hasLocation "New York" .
+
+om:Building_259 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.2869e+05 ] ;
+    brick:buildingPrimaryFunction "K-12 School" ;
+    brick:hasLocation "Broadalbin" .
+
+om:Building_441 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 5.51143e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Bronx" .
+
+om:Building_442 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 2.05e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Rye" .
+
+om:Building_99 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 8.69066e+05 ] ;
+    brick:buildingPrimaryFunction "Multifamily" ;
+    brick:hasLocation "Brooklyn" .
+
+om:Building_465 a brick:Building ;
+    brick:area [ brick:hasUnit unit:FT2 ;
+            brick:value 4.7e+05 ] ;
+    brick:buildingPrimaryFunction "Commercial Office" ;
+    brick:hasLocation "New York" .
+
